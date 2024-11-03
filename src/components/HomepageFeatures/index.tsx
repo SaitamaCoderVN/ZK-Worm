@@ -11,7 +11,7 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: 'Comprehensive Resource Hub',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/1.svg').default,
     description: (
       <>
         Your project aims to create a centralized repository that encompasses not only source code but also detailed documentation and integration guides for ZK proofs with Wormhole. This will significantly benefit developers by reducing the time spent searching for information across multiple platforms. A well-structured repository can streamline the integration process and promote wider adoption of ZK technology across various blockchain applications
@@ -20,7 +20,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Enhanced Security and Privacy',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/2.svg').default,
     description: (
       <>
         By enabling the integration of ZK proofs, your project directly contributes to enhancing the security and privacy of cross-chain transactions. With ZK technology, users can conduct transactions without revealing sensitive data, thereby fostering trust in decentralized applications. This focus on privacy aligns with increasing user demands for confidentiality in their financial and digital interactions​
@@ -29,7 +29,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Support for Interoperability',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/3.svg').default,
     description: (
       <>
         Your project leverages Wormhole’s capabilities to facilitate seamless communication between different blockchain networks. By integrating ZK proofs, it enhances the security of asset transfers across chains while ensuring that users maintain control over their privacy. This interoperability is crucial for the growing multi-chain ecosystem, allowing for more complex and privacy-preserving interactions in decentralized finance (DeFi) and beyond

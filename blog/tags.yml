@@ -18,5 +18,25 @@
     "label": "Hola",
     "permalink": "/hola",
     "description": "Hola tag description"
+  },
+  "crypto": {
+    "label": "Crypto",
+    "permalink": "/crypto",
+    "description": "Crypto tag description"
+  },
+  "blockchain": {
+    "label": "Blockchain",
+    "permalink": "/blockchain",
+    "description": "Blockchain tag description"
+  },
+  "wormhole": {
+    "label": "Wormhole",
+    "permalink": "/wormhole",
+    "description": "Wormhole tag description"
+  },
+  "zk-snark": {
+    "label": "zk-snark",
+    "permalink": "/zk-snark",
+    "description": "zk-snark tag description"
   }
 }
